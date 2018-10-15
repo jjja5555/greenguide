@@ -755,3 +755,13 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #fed136;
 }
+
+/*Added CSS*/
+.dropdown-menu-background{
+  padding: 5px;
+  background-color: #28C515;
+}
+
+.userguide-images{
+  height: 300px;
+}
