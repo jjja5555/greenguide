@@ -762,6 +762,18 @@ body {
   background-color: #28C515;
 }
 
-.userguide-images{
-  height: 300px;
+.userguide-image{
+  height: 220px;
+}
+
+.restore-cases-image{
+  display: block;
+  height: 350px;
+  width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.restore-cases-header{
+  text-align: center;
 }
