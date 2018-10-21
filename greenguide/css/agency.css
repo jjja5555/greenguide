@@ -624,6 +624,7 @@ footer {
 }
 footer span.copyright {
   line-height: 40px;
+  font-size: 12px;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   text-transform: none;
@@ -776,4 +777,15 @@ body {
 
 .restore-cases-header{
   text-align: center;
+}
+
+.footer-contact{
+  line-height: 20px;
+  font-size: 15px;
+  text-align: center;
+}
+
+.dotted-hr{
+  border-width:1px;  
+  border-top-style:dotted;
 }
